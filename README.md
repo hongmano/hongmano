@@ -4,7 +4,7 @@
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/manooooo95/)](https://www.instagram.com/manooooo95/)
   [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004859386180)](https://www.facebook.com/profile.php?id=100004859386180)
 
-</div>
+<div align=left>
 ## 경력
 
 [전남대학교병원 의생명연구원]
@@ -25,3 +25,4 @@
 - DRAM PKG High Frequency Test & Data Mining
 
 
+</div>

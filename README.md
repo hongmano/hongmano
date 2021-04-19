@@ -30,4 +30,12 @@
 - DRAM PKG High Frequency Test & Data Mining
 
 
+## 연구
+
+[Bootstrap inference for network vector autoregression in large-scale social network](https://link.springer.com/article/10.1007/s42952-021-00115-7)
+Manho Hong & Eunju Hwang / Journal of the Korean Statistical Society (2021)
+
+
+
+
 </div>

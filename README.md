@@ -24,7 +24,7 @@
 
 - 통계직(2021. 06 ~ 2021 . 08)
 
-[삼성전자](https://www.samsung.com/sec/)
+[삼성전자 메모리사업부](https://www.samsung.com/sec/)
 
 - 평가 및 분석(2021. 09 ~ )
 - DRAM PKG High Frequency Test & Data Mining

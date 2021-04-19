@@ -6,11 +6,24 @@
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/manooooo95/)](https://www.instagram.com/manooooo95/)
   [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004859386180)](https://www.facebook.com/profile.php?id=100004859386180)
 
-[경력]
-2018. 10. ~ 2019. 08. 전남대학교 의생명연구원 / 가천대학교병원 연구원[데이터 분석]
 
-2020. 03. ~ 2020. 08. 건설공제조합[통계직]
+## 경력
 
-2022. 09. ~ 현재. 삼성전자[DRAM PKG TEST & DATA MINING]
+[전남대학교병원 의생명연구원]
 
-  </div>
+- 데이터분석(2018. 10 ~ 2019. 08)
+
+[가천대학교병원]
+
+- 데이터분석(2018. 10 ~ 2019. 08)
+
+[건설공제조합](https://www.cgbest.co.kr/cgbest/index.do)
+
+- 통계직(2021. 06 ~ 2021 . 08)
+
+[삼성전자](https://www.samsung.com/sec/)
+
+- 평가 및 분석(2021. 09 ~ )
+- DRAM PKG High Frequency Test & Data Mining
+
+</div>

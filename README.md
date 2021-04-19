@@ -36,6 +36,7 @@
 Manho Hong & Eunju Hwang / Journal of the Korean Statistical Society (2021)
 
 당뇨를 동반한 암생존자의 위험도 및 예후 예측 모형의 설계 - 가천대학교병원
+
 만성신장질환의 발생과 악화를 제어하기 위한 예측 및 예방 프로그램개발 - 보건복지부, 전남대학교 
 
 

@@ -22,11 +22,11 @@
 
 [건설공제조합](https://www.cgbest.co.kr/cgbest/index.do)
 
-- 통계직(2021. 06 ~ 2021 . 08)
+- 통계직(2020. 06 ~ 2020 . 08)
 
 [삼성전자 메모리사업부](https://www.samsung.com/sec/)
 
-- 평가 및 분석(2021. 09 ~ )
+- 평가 및 분석(2020. 09 ~ )
 - DRAM PKG High Frequency Test & Data Mining
 
 

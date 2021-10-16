@@ -28,8 +28,15 @@
 
 - 평가 및 분석(2020. 09 ~ )
 - DRAM PKG High Frequency Test & Data Mining
+ 
+ ## 경력
 
-
+- JOBKOREA 공공데이터인력 강사
+- DACON 데이터분석 멘토
+- 좋은일컴퍼니 (빅)데이터 강사
+- 가천대학교 이공계열/데이터분석 멘토링
+- 목포대학교 데이터분석 멘토링
+ 
 ## 연구
 
 [Bootstrap inference for network vector autoregression in large-scale social network](https://link.springer.com/article/10.1007/s42952-021-00115-7) -

@@ -29,10 +29,8 @@
 - 평가 및 분석(2020. 09 ~ 2025.10)
 - DRAM PKG High Frequency Test & Data Mining
 
- [SK하이닉스](https://www.samsung.com/sec/)
-
-- 평가 및 분석(2025. 10 ~ )
-- HBM Development
+ [SK하이닉스]
+- HBM Development (2025. 10 ~ )
   
  ## 경력
 
